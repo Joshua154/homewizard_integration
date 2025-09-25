@@ -1,0 +1,12 @@
+{
+  "domain": "homewizard_integration",
+  "name": "Intergration for HomeWizard Smartwares Hub and devices",
+  "documentation": "https://github.com/Joshua154/homewizard_integration",
+  "issue_tracker": "https://github.com/Joshua154/homewizard_integration/issues",
+  "codeowners": ["@Joshua154"],
+  "iot_class": "local_polling",
+  "version": "1.0.0",
+  "config_flow": true,
+  "dependencies": [],
+  "requirements": ["aiohttp"]
+}
