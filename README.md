@@ -1,0 +1,1 @@
+# Homewizard Integration for Home Assistant
