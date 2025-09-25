@@ -1,0 +1,1 @@
+DOMAIN = "my_device_integration"
